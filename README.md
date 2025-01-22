@@ -20,7 +20,7 @@ liac-arff==2.2.2
 * [Install plugin](frontend)
 
 ## Screenshot
-<img src="https://github.com/navyasweet/Chrome-Extension-For-Detecting-Phishing-Websites/blob/001a4355afb9f538a39f3d2ed39736f6504694ca/artifacts/pluginUI.png" alt="UI" height="400" width="250"></img>
+<img src="https://github.com/navyasweet/Chrome-Extension-For-Detecting-Phishing-Websites/blob/001a4355afb9f538a39f3d2ed39736f6504694ca/artifacts/pluginUI.png" alt="UI" height="400" width="650"></img>
 
 **F1 score:** 0.905
 
