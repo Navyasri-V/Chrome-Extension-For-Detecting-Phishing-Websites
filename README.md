@@ -14,7 +14,7 @@ liac-arff==2.2.2
 ```
 
 ## Documentation
-* [Wiki - Complete reference](https://github.com/picopalette/phishing-detection-plugin/wiki)
+* [Wiki - Complete reference](https://github.com/navyasweet/Chrome-Extension-For-Detecting-Phishing-Websites.wiki.git)
 * [Prepare the dataset](backend/dataset/)
 * [Train and Export the model](backend/classifier/)
 * [Install plugin](frontend)
